@@ -24,7 +24,7 @@ Libraries with tools offering support to the sort of research we do
  - [neurite](https://github.com/adalca/neurite)  
 medical image analysis, mostly in `tensorflow`/`keras` for now.  
 Related more experimental library: [neurite-sandbox](https://github.com/adalca/neurite-sandbox) 
- - [Voxsynth](https://github.com/dalcalab/voxynth)  
+ - [voxynth](https://github.com/dalcalab/voxynth)  
 Synthesizing voxel data, based on the generative modeling in SynthSeg, SynthMorph, SynthStrip, etc
  - [surfa](https://github.com/freesurfer/surfa)  
 General purpose medical image handling and volume processing (general/non-DL)
