@@ -22,7 +22,8 @@ Libraries with tools offering support to the sort of research we do
  - [voxel](https://github.com/dalcalab/voxel)  
 `torch`-focused general purpose medical volume processing
  - [neurite](https://github.com/adalca/neurite)  
-medical image analysis, mostly in `tensorflow`/`keras` for now.
+medical image analysis, mostly in `tensorflow`/`keras` for now.  
+Related more experimental library: [neurite-sandbox](https://github.com/adalca/neurite-sandbox) 
  - [Voxsynth](https://github.com/dalcalab/voxynth)  
 Synthesizing voxel data, based on the generative modeling in SynthSeg, SynthMorph, SynthStrip, etc
  - [surfa](https://github.com/dalcalab/surfa)  
