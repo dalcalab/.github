@@ -29,7 +29,7 @@ Synthesizing voxel data, based on the generative modeling in SynthSeg, SynthMorp
  - [surfa](https://github.com/freesurfer/surfa)  
 General purpose medical image handling and volume processing (general/non-DL)
  - [teramedical](https://github.com/teramedical/teramedical)  
-large-scale medical data processing library, with dataset-specific processing
+large-scale medical data processing library, with dataset-specific processing [in conjunction with [Sabuncu Lab at Cornell](https://sabuncu.engineering.cornell.edu/research/)]
  - [dalcalab_resources](https://github.com/dalcalab/dalres)  
 [name TBD?] internal easy-access resources, including `data` and `model` supporting utilities, for the dalcalab
  
