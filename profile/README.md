@@ -15,6 +15,8 @@ Hypernetworks in Pytorch made easy
 Blazingly fast multi-modal data format
  - [Topofit](https://github.com/ahoopes/topofit)  
 Learning-basedfitting of surfaces to cerebral cortex in brain MRI
+ - [ScribblePrompt](https://github.com/halleewong/ScribblePrompt)  
+Interactive medical image segmentation with bounding boxes, clicks and scribbles 
 
 ## Useful libraries
 Libraries with tools offering support to the sort of research we do
