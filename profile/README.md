@@ -21,6 +21,8 @@ Interactive medical image segmentation with bounding boxes, clicks and scribbles
 ## Useful libraries
 Libraries with tools offering support to the sort of research we do
 
+### Pytorch
+
  - [voxel](https://github.com/dalcalab/voxel)  
 `torch`-focused general purpose medical volume processing
  - [neurite](https://github.com/adalca/neurite)  
@@ -28,13 +30,17 @@ medical image analysis, mostly in `tensorflow`/`keras` for now.
 Related more experimental library: [neurite-sandbox](https://github.com/adalca/neurite-sandbox) 
  - [voxynth](https://github.com/dalcalab/voxynth)  
 Synthesizing voxel data, based on the generative modeling in SynthSeg, SynthMorph, SynthStrip, etc
- - [surfa](https://github.com/freesurfer/surfa)  
-General purpose medical image handling and volume processing (general/non-DL)
+ 
+### Data 
  - [teramedical](https://github.com/teramedical/teramedical)  
 large-scale medical data processing library, with dataset-specific processing [in conjunction with [Sabuncu Lab at Cornell](https://sabuncu.engineering.cornell.edu/research/)]
- - [dalcalab_resources](https://github.com/dalcalab/dalres)  
-[name TBD?] internal easy-access resources, including `data` and `model` supporting utilities, for the dalcalab
- 
+ - [daldata](https://github.com/teramedical/teramedical)
+internal library for quickly loading/handling data for torch-based ML projects
+
+### Other public 
+ - [surfa](https://github.com/freesurfer/surfa)  
+General purpose medical image handling and volume processing (general/non-DL)
+
 
 ## Non-Python libraries
 
@@ -47,3 +53,5 @@ extensive `matlab` general purpose libraries
 lab resources (internal datasets, etc)
  - [idealab](https://github.com/dalcalab/idealab)
 light jupyters on ideas and tutorials
+ - [dalcalab_resources](https://github.com/dalcalab/dalres)  
+[name TBD?] internal easy-access resources, including `data` and `model` supporting utilities, for the dalcalab
