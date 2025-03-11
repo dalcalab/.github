@@ -17,6 +17,8 @@ Blazingly fast multi-modal data format
 Learning-basedfitting of surfaces to cerebral cortex in brain MRI
  - [ScribblePrompt](https://github.com/halleewong/ScribblePrompt)  
 Interactive medical image segmentation with bounding boxes, clicks and scribbles 
+ - [MultiverSeg](https://github.com/halleewong/MultiverSeg)  
+Scalable interactive segmentation of biomedical imaging datasets with in-context guidance
 
 ## Useful libraries
 Libraries with tools offering support to the sort of research we do
