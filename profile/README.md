@@ -55,5 +55,5 @@ extensive `matlab` general purpose libraries
 lab resources (internal datasets, etc)
  - [idealab](https://github.com/dalcalab/idealab)
 light jupyters on ideas and tutorials
- - [dalcalab_resources](https://github.com/dalcalab/dalres)  
+ - [dalcalab_resources](https://github.com/dalcalab/resources)  
 [name TBD?] internal easy-access resources, including `data` and `model` supporting utilities, for the dalcalab
