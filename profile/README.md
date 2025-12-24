@@ -4,21 +4,19 @@
 Sometimes these double as a general toolbox, like `voxelmorph`.
 
  - [VoxelMorph](http://voxelmorph.net/)  
-Learning-based image alignment, including VoxelMorph, SynthMorph, AtlasMorph, HyperMorph, etc, and general utilities.  
-Both `pytorch` and `tensorflow`, although most is in `tensorflow`.  
-Related more experimental library: [voxelmorph-sandbox](https://github.com/adalca/voxelmorph-sandbox) 
- - [UniverSeg](https://github.com/JJGO/UniverSeg)  
-Universal Medical Image Segmentation
- - [Hyperlight](https://github.com/JJGO/hyperlight)  
-Hypernetworks in Pytorch made easy
- - [Thunderpack](https://github.com/JJGO/thunderpack)  
-Blazingly fast multi-modal data format
+We introduced learning-based image registration/alignment, including VoxelMorph, [SynthMorph](https://martinos.org/malte/synthmorph/), AtlasMorph, [HyperMorph](https://hypermorph.voxelmorph.net/), etc, and general utilities.  
+- **Synth***  
+In our Synth* line of work we develop a procedural data generation engine to produce synthetic training data that yields methods generalizing reliably across scanners, contrasts, populations, and even modalities.
+This includes [SynthMorph](https://synthmorph.io/), [SynthSeg](https://surfer.nmr.mgh.harvard.edu/fswiki/SynthSeg), [SynthStrip](https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/), [BabySeg](http://babyseg.io/), [Anatomix](https://www.neeldey.com/anatomix/)
+- Automatic segmentation of new data at scale  
+We've spearheaded methods for automatic segmentation of new domains/images/regions in new datasets. These include [ScribblePrompt](https://github.com/halleewong/ScribblePrompt)  
+Interactive medical image segmentation with bounding boxes, clicks and scribbles, [UniverSeg](https://github.com/JJGO/UniverSeg) -- Universal Medical Image Segmentation from new examples without re-training,  - [MultiverSeg](https://github.com/halleewong/MultiverSeg)  -- Scalable interactive segmentation of biomedical imaging datasets with in-context guidance, [tyche](https://tyche.csail.mit.edu/) -- multi-rater segmentation at scale, etc  
  - [Topofit](https://github.com/ahoopes/topofit)  
 Learning-basedfitting of surfaces to cerebral cortex in brain MRI
- - [ScribblePrompt](https://github.com/halleewong/ScribblePrompt)  
-Interactive medical image segmentation with bounding boxes, clicks and scribbles 
- - [MultiverSeg](https://github.com/halleewong/MultiverSeg)  
-Scalable interactive segmentation of biomedical imaging datasets with in-context guidance
+ - [Thunderpack](https://github.com/JJGO/thunderpack)  
+Blazingly fast multi-modal data format
+ - [Hyperlight](https://github.com/JJGO/hyperlight)  
+Hypernetworks in Pytorch made easy
 
 ## Useful libraries
 Libraries with tools offering support to the sort of research we do
